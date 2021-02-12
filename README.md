@@ -4,7 +4,7 @@ Preconfigured with Laravel 8 & Vue 3.
 
 Initialize:
 
-Create .env file (from .env.example)
+* Create .env file (from .env.example)
 
 Then run:
 
