@@ -5,7 +5,7 @@ Preconfigured with Laravel 8 & Vue 3.
 To get started:
 
     git clone https://github.com/savvyshell/laravel8-vue3-boilerplate.git
-    cd laravel-vue3-boilerplate
+    cd laravel8-vue3-boilerplate
     composer install
     npm install
 
