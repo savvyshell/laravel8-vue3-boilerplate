@@ -2,6 +2,13 @@
  
 Preconfigured with Laravel 8 & Vue 3.
 
+To get started:
+
+    git clone https://github.com/boussadjra/laravel-vue-3-starter.git
+    cd laravel-vue3-boilerplate
+    composer install
+    npm install
+
 Initialize:
 
 * Create .env file (from .env.example)
